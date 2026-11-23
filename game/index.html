@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Solmar City — an open-world crime game</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #101418; height: 100%; overflow: hidden; }
+  #wrap { display: flex; align-items: center; justify-content: center; height: 100vh; }
+  canvas { width: min(100vw, 160vh); height: auto; max-height: 100vh; display: block; background: #8aa86a; }
+  #err { position: fixed; left: 0; bottom: 0; color: #ff8080; font: 12px monospace; white-space: pre-wrap; z-index: 9; }
+</style>
+</head>
+<body>
+<div id="wrap"><canvas id="game" width="1280" height="800"></canvas></div>
+<pre id="err"></pre>
+<script src="core.js"></script>
+<script src="city.js"></script>
+<script src="entities.js"></script>
+<script src="ai.js"></script>
+<script src="missions.js"></script>
+<script src="audio.js"></script>
+<script src="render.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
