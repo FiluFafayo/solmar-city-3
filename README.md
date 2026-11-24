@@ -1,8 +1,8 @@
 # Solmar City
 
 [![make.fun](https://make.fun/badge/gta6-01.svg)](https://make.fun/c/gta6-01)
-[![rank](https://make.fun/badge/FiluFafayo/solmar-city-3/rank.svg)](https://make.fun/c/gta6-01)
-[![reward](https://make.fun/badge/FiluFafayo/solmar-city-3/reward.svg)](https://make.fun/c/gta6-01)
+[![rank](https://make.fun/badge/gta6-01/FiluFafayo/solmar-city-3/rank.svg)](https://make.fun/c/gta6-01)
+[![reward](https://make.fun/badge/gta6-01/FiluFafayo/solmar-city-3/reward.svg)](https://make.fun/c/gta6-01)
 
 An original top-down open-world crime game in a sun-soaked coastal city of
 its own. Explore Solmar on foot and by car, steal rides, outrun the Solmar
